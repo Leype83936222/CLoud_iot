@@ -20,5 +20,5 @@ class TestToDoList(unittest.TestCase):
     def test_add_empty_task(self):
         self.assertEqual(self.todo.add_task(""), "Error: Hindi maaaring walang laman ang task.")
 
-if __name__ == '__main__':
+if __name__ == '__main__'eqweqweqweqwe:
     unittest.main()
